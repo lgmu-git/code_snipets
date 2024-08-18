@@ -5,4 +5,5 @@
 [resource]
 script = ExtResource("1_t2o36")
 name = &"Comment_Section"
-snipet = "# oooooooooooooooooooo oooooooooooooooooooo oooooooooooooooooooo"
+snipet = "# oooooooooooooooooooo oooooooooooooooooooo
+# oooooooooooooooooooo "
