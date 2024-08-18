@@ -20,8 +20,7 @@ func _exit_tree() -> void:
 
 func _shortcut_input(event: InputEvent) -> void:
 	if ( (event.is_pressed()) and (Input.is_key_pressed(KEY_CTRL)) and (Input.is_key_pressed(KEY_1)) ):
-		if (edit == null):
-			edit = EditorInterface.get_script_editor().get_current_editor().get_base_editor()
+		edit = EditorInterface.get_script_editor().get_current_editor().get_base_editor()
 		menu.showSnippets()
 
 func snipedPressed(id: int):
