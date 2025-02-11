@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="Snipet_res" load_steps=2 format=3 uid="uid://ro6oxyv58hug"]
+
+[ext_resource type="Script" path="res://addons/code_snipets/main/Snipet_res.gd" id="1_g73qh"]
+
+[resource]
+script = ExtResource("1_g73qh")
+name = &"Comment_Section_B"
+snipet = "# 十 十 十 十 十 十 十 "

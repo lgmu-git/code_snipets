@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="Snipet_res" load_steps=2 format=3 uid="uid://c80ya018nbpxx"]
+
+[ext_resource type="Script" path="res://addons/code_snipets/main/Snipet_res.gd" id="1_86rnc"]
+
+[resource]
+script = ExtResource("1_86rnc")
+name = &"Comment_Block"
+snipet = "# ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ
+# ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ ロ"
