@@ -1,0 +1,2 @@
+# Ignoring any uid, the addon does not care about it.
+*.uid
