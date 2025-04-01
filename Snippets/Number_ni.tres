@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="Snipet_res" load_steps=2 format=3 uid="uid://dpuygxvvaxq8e"]
+
+[ext_resource type="Script" uid="uid://debgrcxjlv7xp" path="res://addons/code_snipets/main/Snipet_res.gd" id="1_88dni"]
+
+[resource]
+script = ExtResource("1_88dni")
+name = &"Number_ni"
+snipet = "# ニ "

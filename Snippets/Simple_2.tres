@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="Snipet_res" load_steps=2 format=3 uid="uid://ccorbt0drod8i"]
+
+[ext_resource type="Script" uid="uid://debgrcxjlv7xp" path="res://addons/code_snipets/main/Snipet_res.gd" id="1_5uv6g"]
+
+[resource]
+script = ExtResource("1_5uv6g")
+name = &""
+snipet = ""
+metadata/_custom_type_script = "uid://debgrcxjlv7xp"
